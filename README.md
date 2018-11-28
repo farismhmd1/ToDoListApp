@@ -9,7 +9,7 @@ To-Do Application Description: <br>
 <br>https://docs.google.com/spreadsheets/d/1a6g4TcdkBoar5tfZL5LYtR5HSVinpACaSAAlpO6UX0I/edit?usp=sharing<br>
 
 
-Project Details
-Xcode 10.0 used.
-cocoapods installed.
-Run project on iOS Simulator
+# Project Details
+Xcode 10.0 used.<br>
+cocoapods installed. <br>
+Run project on iOS Simulator <br>
