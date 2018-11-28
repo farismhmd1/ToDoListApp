@@ -10,6 +10,7 @@ To-Do Application Description: <br>
 
 
 # Project Details
+Architectural pattern: MVC<br>
 Xcode 10.0 used.<br>
-cocoapods installed. <br>
+Cocoapods installed. <br>
 Run project on iOS Simulator <br>
